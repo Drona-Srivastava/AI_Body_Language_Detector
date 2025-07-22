@@ -1,7 +1,8 @@
-tensorflow
-streamlit
-numpy
-pandas
-scikit-learn
-mediapipe
-opencv-python
+tensorflow==2.12.0
+streamlit==1.28.0
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.2.2
+mediapipe==0.10.3
+opencv-python==4.7.0.72
+matplotlib==3.7.1
